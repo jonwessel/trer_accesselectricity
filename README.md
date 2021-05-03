@@ -86,6 +86,10 @@ This repository was built based on the ['trer' template for reproducible emprica
 to your README file. But this is not a legal requirement but a favor that we ask 😉.
 
 
+### Extension
+I replicated the paper "A Template for Reproducible Empirical Research" and added a variable "Access to electricity (% of population)" from Worldbank. The variable is included in the descriptive Statistics, Correlations and in the Regression Result in the Paper and the Presentation. If you have further questions, please feel free to contact me!
+
+
 ### References
 
 These are some very helpful texts discussing collaborative workflows for scientific computing:
